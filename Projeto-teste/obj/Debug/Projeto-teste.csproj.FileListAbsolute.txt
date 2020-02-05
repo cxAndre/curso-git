@@ -1,0 +1,6 @@
+C:\Users\asilva\Desktop\Projeto-teste\Projeto-teste\bin\Debug\Projeto-teste.exe.config
+C:\Users\asilva\Desktop\Projeto-teste\Projeto-teste\bin\Debug\Projeto-teste.exe
+C:\Users\asilva\Desktop\Projeto-teste\Projeto-teste\bin\Debug\Projeto-teste.pdb
+C:\Users\asilva\Desktop\Projeto-teste\Projeto-teste\obj\Debug\Projeto-teste.csprojAssemblyReference.cache
+C:\Users\asilva\Desktop\Projeto-teste\Projeto-teste\obj\Debug\Projeto-teste.exe
+C:\Users\asilva\Desktop\Projeto-teste\Projeto-teste\obj\Debug\Projeto-teste.pdb
